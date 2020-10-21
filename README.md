@@ -1,2 +1,2 @@
-# GCSO-master
-GCSO-master
+# GCSO
+GCSO
